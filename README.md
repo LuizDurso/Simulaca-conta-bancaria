@@ -39,3 +39,30 @@ Durante o desenvolvimento, foram utilizados conceitos fundamentais de Java:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Acesse a pasta do projeto:
+```bash
+cd seu-repositorio
+```
+
+3. Compile o arquivo:
+```bash
+javac Main.java
+```
+
+4. Execute o programa:
+```bash
+java Main
+```
+
+## 🚀 Melhorias futuras
+
+- Implementar múltiplos usuários
+- Persistência de dados (arquivo ou banco de dados)
+- Interface gráfica
+- Validação de entradas inválidas (ex: letras no lugar de números)
+- Separação em classes (orientação a objetos)
+
+## 📚 Contexto
+Projeto desenvolvido para fins educacionais durante a formação da Alura, com foco em prática de fundamentos da linguagem Java.
